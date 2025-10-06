@@ -4,27 +4,27 @@
                 pix: {
                     steps: [
                         {
-                            image: "<img src='../assets/images/bancos/itau/qr-1.png' alt=''>",
+                            image: "<img src='assets/images/bancos/itau/qr-1.png' alt=''>",
                             description: "Abra o aplicativo do Itaú em seu smartphone e faça login na sua conta usando sua senha ou biometria."
                         },
                         {
-                            image: "<img src='../assets/images/bancos/itau/qr-2.png' alt=''>",
+                            image: "<img src='assets/images/bancos/itau/qr-2.png' alt=''>",
                             description: "Ná área PIX, escaneie o QR Code ou cole o código no PIX copia e cola e avance."
                         },
                         {
-                            image: "<img src='../assets/images/bancos/itau/qr-3.png' alt=''>",
+                            image: "<img src='assets/images/bancos/itau/qr-3.png' alt=''>",
                             description: "Confira se está tudo certo, marque a caixinha aceitando o PIX Automático e clique em 'Iniciar'."
                         },
                         {
-                            image: "<img src='../assets/images/bancos/itau/qr-4.png' alt=''>",
+                            image: "<img src='assets/images/bancos/itau/qr-4.png' alt=''>",
                             description: "Selecione a conta em que o Valor será descontado mensalmente e clique em 'Continuar'. (Certifique com o cliente que escolha uma conta que haverá os R$70 todo mês)"
                         },
                         {
-                            image: "<img src='../assets/images/bancos/itau/qr-5.png' alt=''>",
+                            image: "<img src='assets/images/bancos/itau/qr-5.png' alt=''>",
                             description: "Confira todas as informações e clique em 'Pagar e ativar PIX Automático'."
                         },
                         {
-                            image: "<img src='../assets/images/bancos/itau/qr-6.png' alt=''>",
+                            image: "<img src='assets/images/bancos/itau/qr-6.png' alt=''>",
                             description: "Digite a senha e clique em continuar. E pronto! O pagamento será realizado na hora."
                         }
                     ]
@@ -32,27 +32,27 @@
                 push: {
                     steps: [
                         {
-                            image: "<img src='../assets/images/bancos/itau/push-1.png' alt=''>",
+                            image: "<img src='assets/images/bancos/itau/push-1.png' alt=''>",
                             description: "Depois de gerar o link de pagamento, faça login no app do Itaú e vá até a 'Área PIX'."
                         },
                         {
-                            image: "<img src='../assets/images/bancos/itau/push-2.png' alt=''>",
+                            image: "<img src='assets/images/bancos/itau/push-2.png' alt=''>",
                             description: "Na parte inferior, acessa a área 'PIX Automático'."
                         },
                          {
-                            image: "<img src='../assets/images/bancos/itau/push-3.png' alt=''>",
+                            image: "<img src='assets/images/bancos/itau/push-3.png' alt=''>",
                             description: "No campo de 'Solicitações', haverá uma solicitação pendente da SKY Seguradora, clique nela."
                         },
                          {
-                            image: "<img src='../assets/images/bancos/itau/push-4.png' alt=''>",
+                            image: "<img src='assets/images/bancos/itau/push-4.png' alt=''>",
                             description: "Confira se está tudo certo para o agendamento do PIX, e clique em 'Iniciar'."
                         },
                          {
-                            image: "<img src='../assets/images/bancos/itau/push-5.png' alt=''>",
+                            image: "<img src='assets/images/bancos/itau/push-5.png' alt=''>",
                             description: "Selecione a conta em que o Valor será descontado mensalmente e clique em 'Continuar'. (Certifique com o cliente que escolha uma conta que haverá os R$70 todo mês)"
                         },
                         {
-                            image: "<img src='../assets/images/bancos/itau/push-6.png' alt=''>",
+                            image: "<img src='assets/images/bancos/itau/push-6.png' alt=''>",
                             description: "Por fim, basca clicar em 'Ativar'. E pronto, o Pix automático está programado."
                         }
                         
@@ -65,23 +65,23 @@
                 pix: {
                     steps: [
                         {
-                            image: "<img src='../assets/images/bancos/nubank/qr-1.png' alt=''>",
+                            image: "<img src='assets/images/bancos/nubank/qr-1.png' alt=''>",
                             description: "Depois de gerar o link de pagamento, faça login no app do Nubank e vá até a 'Área PIX'."
                         },
                         {
-                            image: "<img src='../assets/images/bancos/nubank/qr-2.png' alt=''>",
+                            image: "<img src='assets/images/bancos/nubank/qr-2.png' alt=''>",
                             description: "Escaneie o QR Code ou cole o link do PIX."
                         },
                          {
-                            image: "<img src='../assets/images/bancos/nubank/qr-4.png' alt=''>",
+                            image: "<img src='assets/images/bancos/nubank/qr-4.png' alt=''>",
                             description: "Após escanear o QR Code, autorize a caixinha e clique na seta para avançar'."
                         },
                          {
-                            image: "<img src='../assets/images/bancos/nubank/qr-5.png' alt=''>",
+                            image: "<img src='assets/images/bancos/nubank/qr-5.png' alt=''>",
                             description: "Selecione a conta em que o Valor será descontado mensalmente e clique em 'Continuar com Saldo'. (Certifique com o cliente que escolha uma conta que haverá os R$70 todo mês)"
                         },
                         {
-                            image: "<img src='../assets/images/bancos/nubank/qr-6.png' alt=''>",
+                            image: "<img src='assets/images/bancos/nubank/qr-6.png' alt=''>",
                             description: "Confira se está tudo certo, clique em enviar, digite a senha, e pronto! O pagamento será realizado na mesma hora."
                         }
                     ]
@@ -89,23 +89,23 @@
                 push: {
                     steps: [
                         {
-                            image: "<img src='../assets/images/bancos/nubank/push-1.png' alt=''>",
+                            image: "<img src='assets/images/bancos/nubank/push-1.png' alt=''>",
                             description: "Depois de gerar o link de pagamento, faça login no app do Nubank e vá até a 'Área PIX'."
                         },
                         {
-                            image: "<img src='../assets/images/bancos/nubank/push-2.png' alt=''>",
+                            image: "<img src='assets/images/bancos/nubank/push-2.png' alt=''>",
                             description: "Na parte inferior, acessa a área 'PIX Automático'."
                         },
                           {
-                            image: "<img src='../assets/images/bancos/nubank/push-3.png' alt=''>",
+                            image: "<img src='assets/images/bancos/nubank/push-3.png' alt=''>",
                             description: "No menu, selecione 'Transferências' e depois 'push'."
                         },
                           {
-                            image: "<img src='../assets/images/bancos/nubank/push-4.png' alt=''>",
+                            image: "<img src='assets/images/bancos/nubank/push-4.png' alt=''>",
                             description: "No menu, selecione 'Transferências' e depois 'push'."
                         },
                         {
-                            image: "<img src='../assets/images/bancos/nubank/push-5.png' alt=''>",
+                            image: "<img src='assets/images/bancos/nubank/push-5.png' alt=''>",
                             description: "Preencha todos os dados bancários necessários para a push."
                         }
                     ]
@@ -117,15 +117,15 @@
                 pix: {
                     steps: [
                         {
-                            image: "<img src='../assets/images/bancos/bmg/qr-1.png' alt=''>",
+                            image: "<img src='assets/images/bancos/bmg/qr-1.png' alt=''>",
                             description: "Depois de gerar o link de pagamento, faça login no app do BMG e vá até a 'Área PIX'."
                         },
                         {
-                            image: "<img src='../assets/images/bancos/bmg/qr-2.png' alt=''>",
+                            image: "<img src='assets/images/bancos/bmg/qr-2.png' alt=''>",
                             description: "Escaneie o QR Code ou cole o link do PIX."
                         },
                         {
-                            image: "<img src='../assets/images/bancos/bmg/push-5.png' alt=''>",
+                            image: "<img src='assets/images/bancos/bmg/push-5.png' alt=''>",
                             description: "Após escanear, basta aceitar o PIX Automático e finalizar a transação. E pronto! O PIX ja foi realizado e as próximas parcelas estão agendadas"
                         }
                     ]
@@ -133,23 +133,23 @@
                 push: {
                     steps: [
                         {
-                            image: "<img src='../assets/images/bancos/bmg/push-1.png' alt=''>",
+                            image: "<img src='assets/images/bancos/bmg/push-1.png' alt=''>",
                             description: "Depois de gerar o link de pagamento, faça login no app do BMG e vá até a 'Área PIX'."
                         },
                         {
-                            image: "<img src='../assets/images/bancos/bmg/push-2.png' alt=''>",
+                            image: "<img src='assets/images/bancos/bmg/push-2.png' alt=''>",
                             description: "Na parte inferior, acessa a área 'PIX Automático'."
                         },
                           {
-                            image: "<img src='../assets/images/bancos/bmg/push-3.png' alt=''>",
+                            image: "<img src='assets/images/bancos/bmg/push-3.png' alt=''>",
                             description: "Busque por 'Autorizações Pendentes' e acesse.."
                         },
                           {
-                            image: "<img src='../assets/images/bancos/bmg/push-4.png' alt=''>",
+                            image: "<img src='assets/images/bancos/bmg/push-4.png' alt=''>",
                             description: "Havará uma solicitação pendente da Sky, clique nela"
                         },
                         {
-                            image: "<img src='../assets/images/bancos/bmg/push-5.png' alt=''>",
+                            image: "<img src='assets/images/bancos/bmg/push-5.png' alt=''>",
                             description: "Confira se os dados estão corretos, e clique em 'Continuar'. E pronto! Seu Push ja está aceito e o PIX agendado."
                         }
                     ]
@@ -161,19 +161,19 @@
                 pix: {
                     steps: [
                         {
-                            image: "<img src='../assets/images/bancos/Caixa/qr-1.png' alt=''>",
+                            image: "<img src='assets/images/bancos/Caixa/qr-1.png' alt=''>",
                             description: "Depois de gerar o link de pagamento, faça login no app do Caixa e vá até a 'Área PIX'."
                         },
                         {
-                            image: "<img src='../assets/images/bancos/Caixa/qr-2.png' alt=''>",
+                            image: "<img src='assets/images/bancos/Caixa/qr-2.png' alt=''>",
                             description: "Escaneie o QR Code ou cole o link do PIX."
                         },
                         {
-                            image: "<img src='../assets/images/bancos/Caixa/qr-3.png' alt=''>",
+                            image: "<img src='assets/images/bancos/Caixa/qr-3.png' alt=''>",
                             description: "Após escanear, confira se todos os dados estão corretos e avance."
                         },
                         {
-                            image: "<img src='../assets/images/bancos/Caixa/qr-4.png' alt=''>",
+                            image: "<img src='assets/images/bancos/Caixa/qr-4.png' alt=''>",
                             description: "Para finalizar, clique em 'Confirmar'. Digite a senha do cliente, e pronto! O Pix ja está realizado e as próximas parecelas agendadas."
                         }
                     ]
@@ -181,23 +181,23 @@
                 push: {
                     steps: [
                         {
-                            image: "<img src='../assets/images/bancos/Caixa/push-1.png' alt=''>",
+                            image: "<img src='assets/images/bancos/Caixa/push-1.png' alt=''>",
                             description: "Faça login no app do Caixa, cá na aba 'Menu', e pesquise por 'PIX Automático'."
                         },
                         {
-                            image: "<img src='../assets/images/bancos/Caixa/push-2.png' alt=''>",
+                            image: "<img src='assets/images/bancos/Caixa/push-2.png' alt=''>",
                             description: "haverá uma área chamada 'Autorizações pendentes', clique nela.'"
                         },
                           {
-                            image: "<img src='../assets/images/bancos/Caixa/push-3.png' alt=''>",
+                            image: "<img src='assets/images/bancos/Caixa/push-3.png' alt=''>",
                             description: "Abrirá uma notificação pendente em nome da SKY. Desça a tela"
                         },
                           {
-                            image: "<img src='../assets/images/bancos/Caixa/push-4.png' alt=''>",
+                            image: "<img src='assets/images/bancos/Caixa/push-4.png' alt=''>",
                             description: "Aceite a caixinha 'Usar limite da conta', e avance."
                         },
                         {
-                            image: "<img src='../assets/images/bancos/Caixa/push-5.png' alt=''>",
+                            image: "<img src='assets/images/bancos/Caixa/push-5.png' alt=''>",
                             description: "Confira se os dados estão corretos, e clique em 'Confirmar'. Digite a senha do cliente, e pronto! Seu Push ja está aceito e o PIX agendado."
                         }
                     ]
@@ -209,23 +209,23 @@
                 pix: {
                     steps: [
                         {
-                            image: "<img src='../assets/images/bancos/nubank/qr-1.png' alt=''>",
+                            image: "<img src='assets/images/bancos/nubank/qr-1.png' alt=''>",
                             description: "Depois de gerar o link de pagamento, faça login no app do Nubank e vá até a 'Área PIX'."
                         },
                         {
-                            image: "<img src='../assets/images/bancos/nubank/qr-2.png' alt=''>",
+                            image: "<img src='assets/images/bancos/nubank/qr-2.png' alt=''>",
                             description: "Escaneie o QR Code ou cole o link do PIX."
                         },
                          {
-                            image: "<img src='../assets/images/bancos/nubank/qr-4.png' alt=''>",
+                            image: "<img src='assets/images/bancos/nubank/qr-4.png' alt=''>",
                             description: "Após escanear o QR Code, autorize a caixinha e clique na seta para avançar'."
                         },
                          {
-                            image: "<img src='../assets/images/bancos/nubank/qr-5.png' alt=''>",
+                            image: "<img src='assets/images/bancos/nubank/qr-5.png' alt=''>",
                             description: "Selecione a conta em que o Valor será descontado mensalmente e clique em 'Continuar com Saldo'. (Certifique com o cliente que escolha uma conta que haverá os R$70 todo mês)"
                         },
                         {
-                            image: "<img src='../assets/images/bancos/nubank/qr-6.png' alt=''>",
+                            image: "<img src='assets/images/bancos/nubank/qr-6.png' alt=''>",
                             description: "Confira se está tudo certo, clique em enviar, digite a senha, e pronto! O pagamento será realizado na mesma hora."
                         }
                     ]
@@ -233,23 +233,23 @@
                 push: {
                     steps: [
                         {
-                            image: "<img src='../assets/images/bancos/nubank/push-1.png' alt=''>",
+                            image: "<img src='assets/images/bancos/nubank/push-1.png' alt=''>",
                             description: "Depois de gerar o link de pagamento, faça login no app do Nubank e vá até a 'Área PIX'."
                         },
                         {
-                            image: "<img src='../assets/images/bancos/nubank/push-2.png' alt=''>",
+                            image: "<img src='assets/images/bancos/nubank/push-2.png' alt=''>",
                             description: "Na parte inferior, acessa a área 'PIX Automático'."
                         },
                           {
-                            image: "<img src='../assets/images/bancos/nubank/push-3.png' alt=''>",
+                            image: "<img src='assets/images/bancos/nubank/push-3.png' alt=''>",
                             description: "No menu, selecione 'Transferências' e depois 'push'."
                         },
                           {
-                            image: "<img src='../assets/images/bancos/nubank/push-4.png' alt=''>",
+                            image: "<img src='assets/images/bancos/nubank/push-4.png' alt=''>",
                             description: "No menu, selecione 'Transferências' e depois 'push'."
                         },
                         {
-                            image: "<img src='../assets/images/bancos/nubank/push-5.png' alt=''>",
+                            image: "<img src='assets/images/bancos/nubank/push-5.png' alt=''>",
                             description: "Preencha todos os dados bancários necessários para a push."
                         }
                     ]
@@ -261,19 +261,19 @@
                 pix: {
                     steps: [
                         {
-                            image: "<img src='../assets/images/bancos/mercantil/qr-1.png' alt=''>",
+                            image: "<img src='assets/images/bancos/mercantil/qr-1.png' alt=''>",
                             description: "Depois de gerar o link de pagamento, faça login no app do Mercantil e vá até a 'Área PIX'."
                         },
                         {
-                            image: "<img src='../assets/images/bancos/mercantil/qr-2.png' alt=''>",
+                            image: "<img src='assets/images/bancos/mercantil/qr-2.png' alt=''>",
                             description: "Escaneie o QR Code ou cole o link do PIX."
                         },
                          {
-                            image: "<img src='../assets/images/bancos/mercantil/qr-3.png' alt=''>",
+                            image: "<img src='assets/images/bancos/mercantil/qr-3.png' alt=''>",
                             description: "Confira se está tudo certo e clique em 'Avançar'."
                         },
                          {
-                            image: "<img src='../assets/images/bancos/mercantil/qr-4.png' alt=''>",
+                            image: "<img src='assets/images/bancos/mercantil/qr-4.png' alt=''>",
                             description: "Desça a página, marque a caixinha autorizando o PIX Automático e clique em 'Confirmar com Senha'. E Pronto, após colocar a senha o PIX Automático já estará ativo."
                         }
                     ]
@@ -281,23 +281,23 @@
                 push: {
                     steps: [
                         {
-                            image: "<img src='../assets/images/bancos/mercantil/push-1.png' alt=''>",
+                            image: "<img src='assets/images/bancos/mercantil/push-1.png' alt=''>",
                             description: "Depois de gerar o link de pagamento, faça login no app do Mercantil e vá até a 'Área PIX'."
                         },
                         {
-                            image: "<img src='../assets/images/bancos/mercantil/push-2.png' alt=''>",
+                            image: "<img src='assets/images/bancos/mercantil/push-2.png' alt=''>",
                             description: "Acesse a área 'PIX Automático'."
                         },
                           {
-                            image: "<img src='../assets/images/bancos/mercantil/push-3.png' alt=''>",
+                            image: "<img src='assets/images/bancos/mercantil/push-3.png' alt=''>",
                             description: "Clique em 'Autorizações Pendentes'."
                         },
                           {
-                            image: "<img src='../assets/images/bancos/mercantil/push-4.png' alt=''>",
+                            image: "<img src='assets/images/bancos/mercantil/push-4.png' alt=''>",
                             description: "Na aba de 'Pendentes' haverá uma solicitação da Sky, clique nela."
                         },
                           {
-                            image: "<img src='../assets/images/bancos/mercantil/push-5.png' alt=''>",
+                            image: "<img src='assets/images/bancos/mercantil/push-5.png' alt=''>",
                             description: "Confira se está tudo certo e clique em 'Autorizar'. Digite a senha e pronto! Seu Push está realizado e o PIX agendado. "
                         }
                     ]
@@ -309,19 +309,19 @@
                 pix: {
                     steps: [
                         {
-                            image: "<img src='../assets/images/bancos/bradesco/qr-1.png' alt=''>",
+                            image: "<img src='assets/images/bancos/bradesco/qr-1.png' alt=''>",
                             description: "Depois de gerar o link de pagamento, faça login no app do bradesco e vá até a 'Área PIX'."
                         },
                         {
-                            image: "<img src='../assets/images/bancos/bradesco/qr-2.png' alt=''>",
+                            image: "<img src='assets/images/bancos/bradesco/qr-2.png' alt=''>",
                             description: "Escaneie o QR Code ou cole o link do PIX."
                         },
                          {
-                            image: "<img src='../assets/images/bancos/bradesco/qr-3.png' alt=''>",
+                            image: "<img src='assets/images/bancos/bradesco/qr-3.png' alt=''>",
                             description: "Confira se está tudo certo, desça até o final da tela e clique em 'Avançar'."
                         },
                          {
-                            image: "<img src='../assets/images/bancos/bradesco/qr-4.png' alt=''>",
+                            image: "<img src='assets/images/bancos/bradesco/qr-4.png' alt=''>",
                             description: "Será solicitada a senha do cliente, coloque a senha e pronto! Seu Pix já foi realizado!"
                         }
                     ]
@@ -329,19 +329,19 @@
                 push: {
                     steps: [
                         {
-                            image: "<img src='../assets/images/bancos/bradesco/push-1.png' alt=''>",
+                            image: "<img src='assets/images/bancos/bradesco/push-1.png' alt=''>",
                             description: "Depois de gerar o link de pagamento, faça login no app do bradesco e vá até a 'Área PIX'."
                         },
                         {
-                            image: "<img src='../assets/images/bancos/bradesco/push-2.png' alt=''>",
+                            image: "<img src='assets/images/bancos/bradesco/push-2.png' alt=''>",
                             description: "Solicitações Pendentes'."
                         },
                           {
-                            image: "<img src='../assets/images/bancos/bradesco/push-3.png' alt=''>",
+                            image: "<img src='assets/images/bancos/bradesco/push-3.png' alt=''>",
                             description: "Caso não haja nenhuma outra solicitação de PIX, entrará automaticamente na proposta da SKY, desça a página e clique em 'Autorizar'."
                         },
                           {
-                            image: "<img src='../assets/images/bancos/bradesco/push-4.png' alt=''>",
+                            image: "<img src='assets/images/bancos/bradesco/push-4.png' alt=''>",
                             description: "Será solicitada a senha do cliente, coloque a senha e pronto! O agendamento do seu PIX Automático já foi realizado!"
                         }
                     ]
@@ -353,19 +353,19 @@
                 pix: {
                     steps: [
                         {
-                            image: "<img src='../assets/images/bancos/C6/qr-1.png' alt=''>",
+                            image: "<img src='assets/images/bancos/C6/qr-1.png' alt=''>",
                             description: "Depois de gerar o link de pagamento, faça login no app do C6 e vá até a 'Área PIX'."
                         },
                         {
-                            image: "<img src='../assets/images/bancos/C6/qr-2.png' alt=''>",
+                            image: "<img src='assets/images/bancos/C6/qr-2.png' alt=''>",
                             description: "Escaneie o QR Code ou cole o link do PIX."
                         },
                          {
-                            image: "<img src='../assets/images/bancos/C6/qr-3.png' alt=''>",
+                            image: "<img src='assets/images/bancos/C6/qr-3.png' alt=''>",
                             description: "O pagamento será apresentado, marque a caixinha e clique em 'Transferir'."
                         },
                          {
-                            image: "<img src='../assets/images/bancos/C6/qr-4.png' alt=''>",
+                            image: "<img src='assets/images/bancos/C6/qr-4.png' alt=''>",
                             description: "E pronto, digite sua senha e conclua. Seu pagamento ja foi realizado e agendado!"
                         }
                     ]
@@ -373,19 +373,19 @@
                 push: {
                     steps: [
                         {
-                            image: "<img src='../assets/images/bancos/C6/push-1.png' alt=''>",
+                            image: "<img src='assets/images/bancos/C6/push-1.png' alt=''>",
                             description: "Depois de gerar o link de pagamento, faça login no app do C6 e vá até a 'Área PIX' e clique em 'Pix Automático'."
                         },
                         {
-                            image: "<img src='../assets/images/bancos/C6/push-2.png' alt=''>",
+                            image: "<img src='assets/images/bancos/C6/push-2.png' alt=''>",
                             description: "Haveá uma solicitação pendente da SKY Seguradora, clique nela."
                         },
                           {
-                            image: "<img src='../assets/images/bancos/C6/push-3.png' alt=''>",
+                            image: "<img src='assets/images/bancos/C6/push-3.png' alt=''>",
                             description: "Confira se está tudo certo para o agendamento e clique em 'Cadastrar'."
                         },
                           {
-                            image: "<img src='../assets/images/bancos/C6/push-4.png' alt=''>",
+                            image: "<img src='assets/images/bancos/C6/push-4.png' alt=''>",
                             description: "Digite sua senha, ou faça o scan facial, e pronto! Seu Pix Automático já estará agendado."
                         }
                     ]
@@ -398,19 +398,19 @@
                 pix: {
                     steps: [
                         {
-                            image: "<img src='../assets/images/bancos/bb/qr-1.png' alt=''>",
+                            image: "<img src='assets/images/bancos/bb/qr-1.png' alt=''>",
                             description: "Depois de gerar o link de pagamento, faça login no app do Banco do Brasil e vá até a 'Área PIX'."
                         },
                         {
-                            image: "<img src='../assets/images/bancos/bb/qr-2.png' alt=''>",
+                            image: "<img src='assets/images/bancos/bb/qr-2.png' alt=''>",
                             description: "Escaneie o QR Code ou cole o link do PIX."
                         },
                          {
-                            image: "<img src='../assets/images/bancos/bb/qr-3.png' alt=''>",
+                            image: "<img src='assets/images/bancos/bb/qr-3.png' alt=''>",
                             description: "Após escanear o QR Code, desça a página, autorize a caixinha e clique em 'Pagar e autorizar'."
                         },
                          {
-                            image: "<img src='../assets/images/bancos/bb/qr-4.png' alt=''>",
+                            image: "<img src='assets/images/bancos/bb/qr-4.png' alt=''>",
                             description: "Caso apareça este alerta, basca clicar em 'Sim, Prosseguir'. Depois, coloque a senha e pronto! O pagamento já está realizado e o PIX Automático ativado."
                         }
                     ]
@@ -418,27 +418,27 @@
                 push: {
                     steps: [
                         {
-                            image: "<img src='../assets/images/bancos/bb/push-1.png' alt=''>",
+                            image: "<img src='assets/images/bancos/bb/push-1.png' alt=''>",
                             description: "Depois de gerar o link de pagamento, faça login no app do bb e vá até a 'Área PIX'."
                         },
                         {
-                            image: "<img src='../assets/images/bancos/bb/push-2.png' alt=''>",
+                            image: "<img src='assets/images/bancos/bb/push-2.png' alt=''>",
                             description: "Acesse a área 'PIX Automático'."
                         },
                           {
-                            image: "<img src='../assets/images/bancos/bb/push-3.png' alt=''>",
+                            image: "<img src='assets/images/bancos/bb/push-3.png' alt=''>",
                             description: "Clique em 'Autorizações'."
                         },
                           {
-                            image: "<img src='../assets/images/bancos/bb/push-4.png' alt=''>",
+                            image: "<img src='assets/images/bancos/bb/push-4.png' alt=''>",
                             description: "Na aba de 'Pendentes' haverá uma solicitação da Sky, clique nela."
                         },
                           {
-                            image: "<img src='../assets/images/bancos/bb/push-5.png' alt=''>",
+                            image: "<img src='assets/images/bancos/bb/push-5.png' alt=''>",
                             description: "Confira se está tudo certo e clique em 'Autorizar'."
                         },
                         {
-                            image: "<img src='../assets/images/bancos/bb/push-6.png' alt=''>",
+                            image: "<img src='assets/images/bancos/bb/push-6.png' alt=''>",
                             description: "Caso apareça este alerta, basca clicar em 'Sim, Prosseguir'. Depois, coloque a senha e pronto! O pagamento já está realizado e o PIX Automático ativado."
                         }
                     ]
