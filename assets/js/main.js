@@ -161,19 +161,19 @@
                 pix: {
                     steps: [
                         {
-                            image: "<img src='assets/images/bancos/Caixa/qr-1.png' alt=''>",
+                            image: "<img src='assets/images/bancos/caixa/qr-1.png' alt=''>",
                             description: "Depois de gerar o link de pagamento, faça login no app do Caixa e vá até a 'Área PIX'."
                         },
                         {
-                            image: "<img src='assets/images/bancos/Caixa/qr-2.png' alt=''>",
+                            image: "<img src='assets/images/bancos/caixa/qr-2.png' alt=''>",
                             description: "Escaneie o QR Code ou cole o link do PIX."
                         },
                         {
-                            image: "<img src='assets/images/bancos/Caixa/qr-3.png' alt=''>",
+                            image: "<img src='assets/images/bancos/caixa/qr-3.png' alt=''>",
                             description: "Após escanear, confira se todos os dados estão corretos e avance."
                         },
                         {
-                            image: "<img src='assets/images/bancos/Caixa/qr-4.png' alt=''>",
+                            image: "<img src='assets/images/bancos/caixa/qr-4.png' alt=''>",
                             description: "Para finalizar, clique em 'Confirmar'. Digite a senha do cliente, e pronto! O Pix ja está realizado e as próximas parecelas agendadas."
                         }
                     ]
@@ -181,23 +181,23 @@
                 push: {
                     steps: [
                         {
-                            image: "<img src='assets/images/bancos/Caixa/push-1.png' alt=''>",
+                            image: "<img src='assets/images/bancos/caixa/push-1.png' alt=''>",
                             description: "Faça login no app do Caixa, cá na aba 'Menu', e pesquise por 'PIX Automático'."
                         },
                         {
-                            image: "<img src='assets/images/bancos/Caixa/push-2.png' alt=''>",
+                            image: "<img src='assets/images/bancos/caixa/push-2.png' alt=''>",
                             description: "haverá uma área chamada 'Autorizações pendentes', clique nela.'"
                         },
                           {
-                            image: "<img src='assets/images/bancos/Caixa/push-3.png' alt=''>",
+                            image: "<img src='assets/images/bancos/caixa/push-3.png' alt=''>",
                             description: "Abrirá uma notificação pendente em nome da SKY. Desça a tela"
                         },
                           {
-                            image: "<img src='assets/images/bancos/Caixa/push-4.png' alt=''>",
+                            image: "<img src='assets/images/bancos/caixa/push-4.png' alt=''>",
                             description: "Aceite a caixinha 'Usar limite da conta', e avance."
                         },
                         {
-                            image: "<img src='assets/images/bancos/Caixa/push-5.png' alt=''>",
+                            image: "<img src='assets/images/bancos/caixa/push-5.png' alt=''>",
                             description: "Confira se os dados estão corretos, e clique em 'Confirmar'. Digite a senha do cliente, e pronto! Seu Push ja está aceito e o PIX agendado."
                         }
                     ]
