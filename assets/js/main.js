@@ -353,19 +353,19 @@
                 pix: {
                     steps: [
                         {
-                            image: "<img src='assets/images/bancos/C6/qr-1.png' alt=''>",
+                            image: "<img src='assets/images/bancos/c6/qr-1.png' alt=''>",
                             description: "Depois de gerar o link de pagamento, faça login no app do C6 e vá até a 'Área PIX'."
                         },
                         {
-                            image: "<img src='assets/images/bancos/C6/qr-2.png' alt=''>",
+                            image: "<img src='assets/images/bancos/c6/qr-2.png' alt=''>",
                             description: "Escaneie o QR Code ou cole o link do PIX."
                         },
                          {
-                            image: "<img src='assets/images/bancos/C6/qr-3.png' alt=''>",
+                            image: "<img src='assets/images/bancos/c6/qr-3.png' alt=''>",
                             description: "O pagamento será apresentado, marque a caixinha e clique em 'Transferir'."
                         },
                          {
-                            image: "<img src='assets/images/bancos/C6/qr-4.png' alt=''>",
+                            image: "<img src='assets/images/bancos/c6/qr-4.png' alt=''>",
                             description: "E pronto, digite sua senha e conclua. Seu pagamento ja foi realizado e agendado!"
                         }
                     ]
@@ -373,19 +373,19 @@
                 push: {
                     steps: [
                         {
-                            image: "<img src='assets/images/bancos/C6/push-1.png' alt=''>",
+                            image: "<img src='assets/images/bancos/c6/push-1.png' alt=''>",
                             description: "Depois de gerar o link de pagamento, faça login no app do C6 e vá até a 'Área PIX' e clique em 'Pix Automático'."
                         },
                         {
-                            image: "<img src='assets/images/bancos/C6/push-2.png' alt=''>",
+                            image: "<img src='assets/images/bancos/c6/push-2.png' alt=''>",
                             description: "Haveá uma solicitação pendente da SKY Seguradora, clique nela."
                         },
                           {
-                            image: "<img src='assets/images/bancos/C6/push-3.png' alt=''>",
+                            image: "<img src='assets/images/bancos/c6/push-3.png' alt=''>",
                             description: "Confira se está tudo certo para o agendamento e clique em 'Cadastrar'."
                         },
                           {
-                            image: "<img src='assets/images/bancos/C6/push-4.png' alt=''>",
+                            image: "<img src='assets/images/bancos/c6/push-4.png' alt=''>",
                             description: "Digite sua senha, ou faça o scan facial, e pronto! Seu Pix Automático já estará agendado."
                         }
                     ]
@@ -419,7 +419,7 @@
                     steps: [
                         {
                             image: "<img src='assets/images/bancos/bb/push-1.png' alt=''>",
-                            description: "Depois de gerar o link de pagamento, faça login no app do bb e vá até a 'Área PIX'."
+                            description: "Depois de gerar o link de pagamento, faça login no app do Banco do Brasil e vá até a 'Área PIX'."
                         },
                         {
                             image: "<img src='assets/images/bancos/bb/push-2.png' alt=''>",
@@ -444,37 +444,41 @@
                     ]
                 }
             },
-            santander: {
+             santander: {
                 name: "Santander",
                 pix: {
                     steps: [
                         {
-                            image: "<i class='fas fa-mobile-alt' style='font-size: 3rem; color: #ec0000;'></i>",
-                            description: "Abra o app Santander e faça login com sua senha."
+                            image: "<img src='assets/images/bancos/santander/qr-1.png' alt=''>",
+                            description: "Depois de gerar o link de pagamento, faça login no app do Santander e vá até a 'Área PIX'."
                         },
                         {
-                            image: "<i class='fas fa-qrcode' style='font-size: 3rem; color: #ec0000;'></i>",
-                            description: "Selecione a opção PIX no menu principal."
+                            image: "<img src='assets/images/bancos/santander/qr-2.png' alt=''>",
+                            description: "Escaneie o QR Code ou cole o link do PIX."
                         },
-                        {
-                            image: "<i class='fas fa-money-bill-wave' style='font-size: 3rem; color: #ec0000;'></i>",
-                            description: "Informe o valor e a chave do destinatário."
+                         {
+                            image: "<img src='assets/images/bancos/santander/qr-3.png' alt=''>",
+                            description: "Após escanear o QR Code, siga com o pagamento do PIX normalmente, digite a senha se necessário e pronto! Seu Pix ja está realziado e as próximas parcelas agendadas"
                         }
                     ]
                 },
                 push: {
                     steps: [
                         {
-                            image: "<i class='fas fa-laptop' style='font-size: 3rem; color: #ec0000;'></i>",
-                            description: "Acesse o Internet Banking do Santander."
+                            image: "<img src='assets/images/bancos/santander/push-1.png' alt=''>",
+                            description: "Depois de gerar o link de pagamento, faça login no app do Santander e vá até a 'Área PIX'."
                         },
                         {
-                            image: "<i class='fas fa-exchange-alt' style='font-size: 3rem; color: #ec0000;'></i>",
-                            description: "Vá em 'Transferências' > 'Entre Contas' > 'push'."
+                            image: "<img src='assets/images/bancos/santander/push-2.png' alt=''>",
+                            description: "Desça a página e clique em 'PIX Automático'."
                         },
-                        {
-                            image: "<i class='fas fa-keyboard' style='font-size: 3rem; color: #ec0000;'></i>",
-                            description: "Preencha os dados da transferência e confirme."
+                          {
+                            image: "<img src='assets/images/bancos/santander/push-3.png' alt=''>",
+                            description: "Na aba de 'Autorizações Pendentes', haverá uma autorização da SKY, clique nela."
+                        },
+                          {
+                            image: "<img src='assets/images/bancos/santander/push-4.png' alt=''>",
+                            description: "Confira se os dados estão corretos e clique em 'Confirmar Autorização'. E pronto! Seu Push ja foi aceito e o PIX agendado."
                         }
                     ]
                 }
