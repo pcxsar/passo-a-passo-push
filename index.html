@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pix Automático SKY | Guia de Operação</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">    
+    <link rel="stylesheet" href="assets/css/main.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Pix Automático SKY</h1>
+            <p class="description">Selecione o banco do cliente e siga o passo a passo para configurar o PIX Automático.</p>
+        </header>
+
+        <!-- Tela de seleção de banco -->
+        <div class="step-container active" id="bank-selection">
+            <h2>Selecione seu banco</h2>
+            <div class="bank-grid">
+                <div class="bank-item" data-bank="itau">
+                    <div class="bank-logo">
+                        <img src="assets/images/logos/itau.png" alt="">
+                    </div>
+                    <span class="bank-name">Itaú</span>
+                </div>
+                <div class="bank-item" data-bank="bradesco">
+                    <div class="bank-logo">
+                        <img src="assets/images/logos/bradesco.png" alt="">
+                    </div>
+                    <span class="bank-name">Bradesco</span>
+                </div>
+                <div class="bank-item" data-bank="santander">
+                    <div class="bank-logo">
+                        <img src="assets/images/logos/santander.png" alt="">
+                    </div>
+                    <span class="bank-name">Santander</span>
+                </div>
+                <div class="bank-item" data-bank="bb">
+                    <div class="bank-logo">
+                        <img src="assets/images/logos/bb.png" alt="">
+                    </div>
+                    <span class="bank-name">Banco do Brasil</span>
+                </div>
+                <div class="bank-item" data-bank="Caixa">
+                    <div class="bank-logo">
+                        <img src="assets/images/logos/caixa.png" alt="">
+                    </div>
+                    <span class="bank-name">Caixa Econômica</span>
+                </div>
+                <div class="bank-item" data-bank="nubank">
+                    <div class="bank-logo">
+                        <img src="assets/images/logos/nubank].png" alt="">
+                    </div>
+                    <span class="bank-name">Nubank</span>
+                </div>
+                <div class="bank-item" data-bank="nubank">
+                    <div class="bank-logo">
+                        <img src="assets/images/logos/inter.png" alt="">
+                    </div>
+                    <span class="bank-name">Banco Inter</span>
+                </div>
+                <div class="bank-item" data-bank="C6">
+                    <div class="bank-logo">
+                        <img src="assets/images/logos/c6.png" alt="">
+                    </div>
+                    <span class="bank-name">C6 Bank</span>
+                </div>
+                  <div class="bank-item" data-bank="mercantil">
+                    <div class="bank-logo">
+                        <img src="assets/images/logos/mercantil.png" alt="">
+                    </div>
+                    <span class="bank-name">Mercantil</span>
+                </div>
+                <div class="bank-item" data-bank="bmg">
+                    <div class="bank-logo">
+                        <img src="assets/images/logos/bmg.png" alt="">
+                    </div>
+                    <span class="bank-name">Banco BMG</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- Tela de seleção de operação -->
+        <div class="step-container" id="operation-selection">
+            <button class="back-btn" id="back-to-banks">
+                <i class="fas fa-arrow-left"></i> Voltar para bancos
+            </button>
+            <h2 id="operation-title">Selecione o tipo de operação</h2>
+            <div class="options-container">
+                <button class="option-btn" data-operation="pix">
+                    QR Code Pix Automático <i class="fas fa-arrow-right"></i>
+                </button>
+                <button class="option-btn" data-operation="push">
+                    Push Pix Automático <i class="fas fa-arrow-right"></i>
+                </button>
+            </div>
+            <div class="details-description">
+                <p><b style="color: var(--primary-blue);"> Observação:</b> Ambas as opções irão funcionar para realizar a venda, escolha a que aparentar ser mais fácil para seu cliente.</p>
+            </div>
+        </div>
+
+        <!-- Tela do passo a passo -->
+        <div class="step-container" id="guide-container">
+            <button class="back-btn" id="back-to-operations">
+                <i class="fas fa-arrow-left"></i> Voltar para operações
+            </button>
+            <h2 id="guide-title">Passo a Passo</h2>
+            <div class="step-indicator" id="step-indicator">
+                <!-- Os pontos serão inseridos via JavaScript -->
+            </div>
+            <div class="step-content">
+                <div class="step-image" id="step-image">
+                    <!-- Imagem será inserida via JavaScript -->
+                </div>
+                <p class="step-description" id="step-description">
+                    <!-- Descrição será inserida via JavaScript -->
+                </p>
+                <div class="nav-buttons">
+                    <button class="nav-btn prev" id="prev-step">
+                        <i class="fas fa-chevron-left"></i> Anterior
+                    </button>
+                    <button class="nav-btn next" id="next-step">
+                        Próximo <i class="fas fa-chevron-right"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="assets/js/main.js"></script>
+</body>
+</html>
