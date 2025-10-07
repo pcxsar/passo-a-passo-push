@@ -1,8 +1,8 @@
         :root {
-            --primary-blue: #1a73e8;
-            --secondary-blue: #4285f4;
-            --light-blue: #e8f0fe;
-            --dark-blue: #0d47a1;
+            --primary-blue: #00a89b;
+            --secondary-blue: #00c4b5;
+            --light-blue: #e2fffd;
+            --dark-blue: #007e73;
             --gray: #5f6368;
             --light-gray: #f5f5f5;
             --white: #ffffff;
@@ -249,6 +249,7 @@
         .back-btn {
             display: inline-flex;
             align-items: center;
+            font-size: 16px;
             color: var(--primary-blue);
             background: none;
             border: none;
@@ -256,6 +257,16 @@
             margin-bottom: 15px;
             padding: 5px;
             cursor: pointer;
+        }
+
+        .back-btn i{
+            margin-right: 10px;
+        }
+
+        .step-container h2 i{
+            color: var(--primary-blue);
+            margin-right: 10px;
+            font-size: 18px;
         }
 
         @keyframes fadeIn {

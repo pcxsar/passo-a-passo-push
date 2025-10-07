@@ -444,6 +444,51 @@
                     ]
                 }
             },
+
+             inter: {
+                name: "Banco Inter",
+                pix: {
+                    steps: [
+                        {
+                            image: "<img src='assets/images/bancos/inter/qr-1.png' alt=''>",
+                            description: "Depois de gerar o link de pagamento, faça login no app do Banco Inter e vá até a 'Área PIX'."
+                        },
+                        {
+                            image: "<img src='assets/images/bancos/inter/qr-2.png' alt=''>",
+                            description: "Selecione a opção 'Pagar'."
+                        },
+                         {
+                            image: "<img src='assets/images/bancos/inter/qr-3.png' alt=''>",
+                            description: "Escaneie o QR Code ou utilize o Pix 'Copia e cola'."
+                        },
+                         {
+                            image: "<img src='assets/images/bancos/inter/qr-4.png' alt=''>",
+                            description: "Confira se o valor está correto e clique em 'Continuar'."
+                        },
+                         {
+                            image: "<img src='assets/images/bancos/inter/qr-5.png' alt=''>",
+                            description: "Selecione a conta que será descontado o PIX mensalmente, e avance."
+                        },
+                         {
+                            image: "<img src='assets/images/bancos/inter/qr-6.png' alt=''>",
+                            description: "Confirme os dados, marque a caixinha, e clique em 'Continuar'."
+                        },
+                
+                         {
+                            image: "<img src='assets/images/bancos/inter/qr-7.png' alt=''>",
+                            description: "Avance até a última etapa, e clique em 'Pagar e autorizar'. E pronto! Seu Pix ja está realziado e as próximas parcelas agendadas."
+                        }
+                    ]
+                },
+                push: {
+                    steps: [
+                        {
+                            image: "<img src='assets/images/bancos/inter/push-1.png' alt=''>",
+                            description: "O Push no Banco Inter não estava funcionando em nossos testes. Fazer o pagamento via QR CODE!."
+                        }
+                    ]
+                }
+            },
              santander: {
                 name: "Santander",
                 pix: {
